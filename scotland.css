@@ -1,0 +1,37 @@
+body
+{
+    background-color:#09278b;
+}
+canvas
+{
+    box-shadow: 7px 7px 7px #6282eb;
+    border-radius: 10px;
+    margin-top: 250px;
+}
+#scottag
+{
+    font-size: 30px;
+    color: #09278b;
+    width: 30%;
+    margin: 0px;
+    box-shadow: 7px 7px 7px #6282eb;
+    font-family: 'Pacifico', cursive;
+}
+#status
+{
+    font-size: 20px;
+    color: #09278b;
+    width: 30%;
+    box-shadow: 7px 7px 7px #6282eb;
+    font-family: 'Pacifico', cursive;
+
+}
+#iden
+{
+    font-size: 20px;
+    color: #09278b;
+    width: 60%;
+    box-shadow: 7px 7px 7px #6282eb;
+    font-family: 'Pacifico', cursive;
+    margin-left: 250px;
+}
